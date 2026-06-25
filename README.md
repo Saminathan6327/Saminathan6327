@@ -9,7 +9,7 @@ I am an undergraduate Artificial Intelligence student passionate about turning d
 - 💡 Exploring advanced concepts including neural networks, constraint satisfaction algorithms, and data visualization.
 - 💻 Actively participating in coding challenges and building end-to-end data pipelines.
 - 🌱 Currently mastering: **Python, Scikit-Learn, and Machine Learning workflows.**
-- 📫 How to reach me: [Let's connect on LinkedIn!](https://www.linkedin.com/in/saminathan-m) 
+- 📫 How to reach me: [Let's connect on LinkedIn!](www.linkedin.com/in/sami-nathan6327) 
 
 ### 🛠️ Tech Stack & Tools
 **Languages:** Python, SQL, R  
