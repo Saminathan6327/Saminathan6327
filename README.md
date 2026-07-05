@@ -1,24 +1,233 @@
-# Hi there, I'm Saminathan 👋
+<div align="center">
 
-**B.Tech Artificial Intelligence Student @ SRMIST | Aspiring ML Engineer**
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=200&section=header&text=Saminathan%20Muruganantham&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
-I am an undergraduate Artificial Intelligence student passionate about turning data into actionable insights and building practical machine learning workflows. I enjoy hands-on problem solving, from cleaning complex datasets to writing core algorithmic logic.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=B.Tech+AI+Student+%40+SRMIST;Aspiring+Machine+Learning+Engineer;Data+Pipeline+Builder;AI+%26+Cloud+Enthusiast" alt="Typing SVG" />
 
-### 🚀 About Me
-- 🎓 Currently pursuing my B.Tech in Artificial Intelligence at SRM Institute of Science and Technology (SRMIST).
-- 💡 Exploring advanced concepts including neural networks, constraint satisfaction algorithms, and data visualization.
-- 💻 Actively participating in coding challenges and building end-to-end data pipelines.
-- 🌱 Currently mastering: **Python, Scikit-Learn, and Machine Learning workflows.**
-- 📫 How to reach me: [Let's connect on LinkedIn!](https://www.linkedin.com/in/sami-nathan6327) 
+<br/>
 
-### 🛠️ Tech Stack & Tools
-**Languages:** Python, SQL, R  
-**Libraries & Frameworks:** Scikit-Learn, Pandas, NumPy  
-**Tools & Platforms:** Git, GitHub, Jupyter, Data Analytics Platforms  
+[![Academic](https://img.shields.io/badge/Academic-B.Tech_Artificial_Intelligence-5a189a?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Greater_Chennai,_India-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-### 📈 GitHub Stats
-![Saminathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saminathan6327&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saminathan6327&layout=compact&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-5a189a?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5a189a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-nathan6327)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-5a189a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saminathan6327@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-5a189a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saminathan6327)
 
----
-⭐️ *Always eager to learn, collaborate, and build impactful AI solutions.*
+[![Profile Views](https://komarev.com/ghpvc/?username=Saminathan6327&label=Profile%20Views&color=5a189a&style=for-the-badge)](#)
+[![Followers](https://img.shields.io/github/followers/Saminathan6327?style=for-the-badge&color=5a189a&logo=github)](#)
+[![Stars](https://img.shields.io/github/stars/Saminathan6327?style=for-the-badge&color=5a189a)](#)
+
+</div>
+
+<br/>
+<br/>
+
+## 👨‍💻 About Me
+
+I am an Artificial Intelligence undergraduate student at SRM Institute of Science and Technology passionate about engineering smart solutions, optimizing data workflows, and translating complex algorithmic logic into practical applications. My core technical drive lies at the intersection of robust data engineering, predictive machine learning, and scalable cloud architectures. 
+
+*   **Engineering Focus:** Designing end-to-end data pipelines, implementing machine learning models, and optimizing database management processes.
+*   **AI/ML Expertise:** Building neural networks, constraint satisfaction algorithms, and predictive data modeling workflows using advanced Python libraries.
+*   **Full Stack & Product Mindset:** Emphasizing clean, maintainable code architectures integrated with rigorous version control to deliver scalable, enterprise-grade analytical products.
+*   **Open To:** Machine Learning Internships, Data Engineering Roles, and AI Collaborative Projects.
+
+<br/>
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite&theme=dark" />
+</a>
+
+### ML, Data & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=scikit,pandas,numpy,tensorflow&theme=dark" />
+</a>
+
+### Cloud, DevOps & Tooling
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vscode&theme=dark" />
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+## 🧠 AI/ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Predictive Modeling** | Advanced | Supervised/Unsupervised learning, ensemble methods, and regression frameworks utilizing Scikit-Learn and custom logic. |
+| **Data Engineering** | Advanced | Extract, Transform, Load (ETL) pipeline creation, data preprocessing, and manipulation leveraging SQL, R, and Pandas. |
+| **Algorithm Optimization** | Intermediate | Neural network logic, backpropagation implementation from scratch, and AI constraint satisfaction algorithms. |
+| **Cloud AI & NLP** | Intermediate | Building Language Models on AWS, foundations of prompt engineering, and cloud-based analytics deployment. |
+
+<br/>
+<br/>
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>1. NGO Data Pipeline Engine</b></summary>
+<br/>
+
+An end-to-end SQL and R data pipeline designed to identify and track at-risk students for Non-Governmental Organizations.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | SQL, R, Python, Pandas |
+| **Scale** | Processed comprehensive multi-variable student datasets. |
+| **Performance** | Optimized query runtime and enhanced data visualization reporting. |
+| **Security** | Secure data handling methodologies for sensitive educational metrics. |
+| **Impact** | Provided automated, actionable visual reports for stakeholders to improve outreach targeting. |
+
+[**View Repository ↗**](https://github.com/Saminathan6327/ngo-data-pipeline)
+
+*This project highlights robust data engineering capabilities, transitioning raw relational databases into clean, structured insights utilizing multi-language data extraction techniques.*
+</details>
+
+<details>
+<summary><b>2. Machine Learning Technical Suite</b></summary>
+<br/>
+
+A comprehensive repository of 15 advanced Python coding experiments modeling core machine learning and data science workflows.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | Python, NumPy, Scikit-Learn, Git |
+| **Scale** | 15 distinct programmatic models with corresponding custom CSV datasets. |
+| **Performance** | High-efficiency vectorized operations utilizing NumPy arrays. |
+| **Security** | Isolated environment execution and strict version control. |
+| **Impact** | Demonstrated applied algorithmic theory from dataset creation to model evaluation. |
+
+[**View Repository ↗**](#)
+
+*Developed as a structured technical report, this suite proves deep hands-on competency in manipulating data structures, training predictive models, and managing codebase evolution.*
+</details>
+
+<br/>
+<br/>
+
+## 💼 Experience
+
+**Machine Learning & Data Analytics Intern** | *On-site*
+*2025 - Present*
+
+*   **Workflow Optimization:** Assisted in developing and optimizing machine learning workflows using Python and Scikit-Learn to address specific industry problems.
+*   **Data Integrity:** Cleaned, preprocessed, and manipulated complex structured datasets using Pandas and NumPy, ensuring high data integrity for large-scale model training.
+*   **Version Control:** Collaborated extensively with the technical team to implement algorithms, review codebases, and document architectural changes utilizing Git and GitHub workflows.
+
+`Python` `Scikit-Learn` `SQL` `Pandas` `Git`
+
+<br/>
+<br/>
+
+## 🏆 Achievements
+
+| Recognition | Details |
+| :---: | :--- |
+| **TCS CodeVita** | Participated in rigorous global competitive programming coding sessions. |
+| **TCS MockVita** | Excelled in preliminary algorithmic and data structure assessments. |
+| **Coursera Data Analytics** | Successfully completed advanced SQL and R data visualization coursework. |
+| **NPTEL Certification** | Advanced academic clearance in technical AI curriculum and examinations. |
+
+<br/>
+<br/>
+
+## 📜 Certifications
+
+### AWS Training & Certification[cite: 1, 2, 3, 4, 5, 6]
+![Building Language Models on AWS](https://img.shields.io/badge/AWS-Building_Language_Models-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Fundamentals of Analytics on AWS – Part 2](https://img.shields.io/badge/AWS-Analytics_Part_2-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Fundamentals of Analytics on AWS – Part 1](https://img.shields.io/badge/AWS-Analytics_Part_1-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Machine Learning Terminology and Process](https://img.shields.io/badge/AWS-Machine_Learning_Process-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Foundations of Prompt Engineering](https://img.shields.io/badge/AWS-Prompt_Engineering-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS-Cloud_Practitioner-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Google & NPTEL
+![Google Data Analytics Professional](https://img.shields.io/badge/Google-Data_Analytics_Professional-5a189a?style=for-the-badge&logo=google&logoColor=white)
+![AI Constraint Satisfaction](https://img.shields.io/badge/NPTEL-AI:_Constraint_Satisfaction-5a189a?style=for-the-badge&logo=nptel&logoColor=white)
+
+<br/>
+<br/>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![Codolio](https://img.shields.io/badge/Codolio-Competitive_Programming-5a189a?style=for-the-badge&logo=codeforces&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-5a189a?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Algorithmic_Logic-5a189a?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Data_Structures-5a189a?style=for-the-badge&logo=codechef&logoColor=white)](#)
+
+</div>
+
+<br/>
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saminathan6327&show_icons=true&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&icon_color=7b2cbf&border_color=5a189a" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=dark&background=0d1117&ring=7b2cbf&fire=7b2cbf&currStreakNum=9d4edd&sideLabels=9d4edd&dates=9d4edd&border=5a189a" alt="GitHub Streak" width="48%" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saminathan6327&layout=compact&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&border_color=5a189a" alt="Top Languages" width="50%" />
+
+</div>
+
+<br/>
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="Trophies" />
+</div>
+
+<br/>
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saminathan6327&theme=react-dark&bg_color=0d1117&color=9d4edd&line=7b2cbf&point=ffffff" alt="Activity Graph" />
+</div>
+
+<br/>
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Saminathan6327/Saminathan6327/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<br/>
+<br/>
+
+## ⚡ Current Focus
+
+```yaml
+profile:
+  learning: 
+    - Advanced Neural Networks
+    - Cloud MLOps Architectures
+  building: 
+    - Scalable Machine Learning Pipelines
+    - SQL & R Data Analytics Dashboards
+  exploring: 
+    - Generative AI & Prompt Engineering
+    - Algorithm Complexity Optimization
+  open_to:
+    - ML Engineering Internships
+    - Data Science Collaborations
