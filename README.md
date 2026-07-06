@@ -169,15 +169,14 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saminathan6327&show_icons=true&theme=radical&bg_color=0d1117&border_color=5a189a)](https://github.com/Saminathan6327)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=radical&bg_color=0d1117&border_color=5a189a)](https://github.com/Saminathan6327)
-
-<br/>
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saminathan6327&layout=compact&theme=radical&bg_color=0d1117&border_color=5a189a)](https://github.com/Saminathan6327)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Saminathan6327&show_icons=true&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="GitHub Streak" width="48%" />
+  
+  <br/>
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saminathan6327&layout=compact&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="Top Languages" width="50%" />
 </div>
 
 <br/>
@@ -186,7 +185,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true)](https://github.com/Saminathan6327)]
+  <img src="https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true&v=1" alt="Trophies" />
 </div>
 
 <br/>
