@@ -170,12 +170,19 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saminathan6327&show_icons=true&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&icon_color=7b2cbf&border_color=5a189a)](https://github.com/Saminathan6327)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=dark&background=0d1117&ring=7b2cbf&fire=7b2cbf&currStreakNum=9d4edd&sideLabels=9d4edd&dates=9d4edd&border=5a189a)](https://github.com/Saminathan6327)
+<a href="https://github.com/Saminathan6327">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saminathan6327&show_icons=true&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&icon_color=7b2cbf&border_color=5a189a" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Saminathan6327">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=dark&background=0d1117&ring=7b2cbf&fire=7b2cbf&currStreakNum=9d4edd&sideLabels=9d4edd&dates=9d4edd&border=5a189a" alt="GitHub Streak" />
+</a>
 
 <br/>
+<br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saminathan6327&layout=compact&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&border_color=5a189a)](https://github.com/Saminathan6327)
+<a href="https://github.com/Saminathan6327">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saminathan6327&layout=compact&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&border_color=5a189a" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -185,12 +192,10 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true)](https://github.com/Saminathan6327)
+  <a href="https://github.com/Saminathan6327">
+    <img src="https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="Trophies" />
+  </a>
 </div>
-
-<br/>
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
