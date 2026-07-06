@@ -153,13 +153,12 @@ An end-to-end SQL and R data pipeline designed to identify and track at-risk stu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saminathan6327&show_icons=true&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&icon_color=7b2cbf&border_color=5a189a" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=dark&background=0d1117&ring=7b2cbf&fire=7b2cbf&currStreakNum=9d4edd&sideLabels=9d4edd&dates=9d4edd&border=5a189a" alt="GitHub Streak" width="48%" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saminathan6327&show_icons=true&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&icon_color=7b2cbf&border_color=5a189a)](https://github.com/Saminathan6327)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=dark&background=0d1117&ring=7b2cbf&fire=7b2cbf&currStreakNum=9d4edd&sideLabels=9d4edd&dates=9d4edd&border=5a189a)](https://github.com/Saminathan6327)
 
 <br/>
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saminathan6327&layout=compact&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&border_color=5a189a" alt="Top Languages" width="50%" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saminathan6327&layout=compact&bg_color=0d1117&text_color=9d4edd&title_color=7b2cbf&border_color=5a189a)](https://github.com/Saminathan6327)
 
 </div>
 
@@ -169,12 +168,8 @@ An end-to-end SQL and R data pipeline designed to identify and track at-risk stu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="Trophies" />
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true)](https://github.com/Saminathan6327)
 </div>
-
-<br/>
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
