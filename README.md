@@ -186,7 +186,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true)](https://github.com/Saminathan6327)
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true)](https://github.com/Saminathan6327)]
 </div>
 
 <br/>
