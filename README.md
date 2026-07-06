@@ -193,7 +193,6 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 <br/>
 
 ## 📈 Contribution Activity
-## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saminathan6327&theme=react-dark&bg_color=0d1117&color=9d4edd&line=7b2cbf&point=ffffff" alt="Activity Graph" />
