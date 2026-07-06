@@ -8,8 +8,6 @@
 
 [![Academic](https://img.shields.io/badge/Academic-B.Tech_Artificial_Intelligence-5a189a?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/Location-Greater_Chennai,_India-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-5a189a?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5a189a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-nathan6327)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-5a189a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saminathan6327@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-5a189a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saminathan6327)
@@ -92,25 +90,6 @@ An end-to-end SQL and R data pipeline designed to identify and track at-risk stu
 *This project highlights robust data engineering capabilities, transitioning raw relational databases into clean, structured insights utilizing multi-language data extraction techniques.*
 </details>
 
-<details>
-<summary><b>2. Machine Learning Technical Suite</b></summary>
-<br/>
-
-A comprehensive repository of 15 advanced Python coding experiments modeling core machine learning and data science workflows.
-
-| Metric | Detail |
-| :--- | :--- |
-| **Stack** | Python, NumPy, Scikit-Learn, Git |
-| **Scale** | 15 distinct programmatic models with corresponding custom CSV datasets. |
-| **Performance** | High-efficiency vectorized operations utilizing NumPy arrays. |
-| **Security** | Isolated environment execution and strict version control. |
-| **Impact** | Demonstrated applied algorithmic theory from dataset creation to model evaluation. |
-
-[**View Repository ↗**](#)
-
-*Developed as a structured technical report, this suite proves deep hands-on competency in manipulating data structures, training predictive models, and managing codebase evolution.*
-</details>
-
 <br/>
 <br/>
 
@@ -142,7 +121,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 
 ## 📜 Certifications
 
-### AWS Training & Certification[cite: 1, 2, 3, 4, 5, 6]
+### AWS Training & Certification
 ![Building Language Models on AWS](https://img.shields.io/badge/AWS-Building_Language_Models-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Fundamentals of Analytics on AWS – Part 2](https://img.shields.io/badge/AWS-Analytics_Part_2-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Fundamentals of Analytics on AWS – Part 1](https://img.shields.io/badge/AWS-Analytics_Part_1-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -161,10 +140,9 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 
 <div align="center">
 
-[![Codolio](https://img.shields.io/badge/Codolio-Competitive_Programming-5a189a?style=for-the-badge&logo=codeforces&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-5a189a?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Algorithmic_Logic-5a189a?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Data_Structures-5a189a?style=for-the-badge&logo=codechef&logoColor=white)](#)
+[![Codolio](https://img.shields.io/badge/Codolio-Competitive_Programming-5a189a?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/saminathan06)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-5a189a?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/problemset/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Data_Structures-5a189a?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/saminathan06?utm=codolio)
 
 </div>
 
