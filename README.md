@@ -90,6 +90,25 @@ An end-to-end SQL and R data pipeline designed to identify and track at-risk stu
 *This project highlights robust data engineering capabilities, transitioning raw relational databases into clean, structured insights utilizing multi-language data extraction techniques.*
 </details>
 
+<details>
+<summary><b>2. Machine Learning Technical Suite</b></summary>
+<br/>
+
+A comprehensive repository of 15 advanced Python coding experiments modeling core machine learning and data science workflows.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | Python, NumPy, Scikit-Learn, Git |
+| **Scale** | 15 distinct programmatic models with corresponding custom CSV datasets. |
+| **Performance** | High-efficiency vectorized operations utilizing NumPy arrays. |
+| **Security** | Isolated environment execution and strict version control. |
+| **Impact** | Demonstrated applied algorithmic theory from dataset creation to model evaluation. |
+
+[**View Repository ↗**](YOUR_REPO_LINK_HERE)
+
+*Developed as a structured technical report, this suite proves deep hands-on competency in manipulating data structures, training predictive models, and managing codebase evolution.*
+</details>
+
 <br/>
 <br/>
 
@@ -170,6 +189,10 @@ An end-to-end SQL and R data pipeline designed to identify and track at-risk stu
 <div align="center">
   [![Trophies](https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true)](https://github.com/Saminathan6327)
 </div>
+
+<br/>
+<br/>
+
 ## 📈 Contribution Activity
 
 <div align="center">
