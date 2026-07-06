@@ -141,19 +141,17 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 ## 📜 Certifications
 
 ### AWS Training & Certification
-![Building Language Models on AWS](https://img.shields.io/badge/AWS-Building_Language_Models-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Fundamentals of Analytics on AWS – Part 2](https://img.shields.io/badge/AWS-Analytics_Part_2-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Fundamentals of Analytics on AWS – Part 1](https://img.shields.io/badge/AWS-Analytics_Part_1-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Machine Learning Terminology and Process](https://img.shields.io/badge/AWS-Machine_Learning_Process-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Foundations of Prompt Engineering](https://img.shields.io/badge/AWS-Prompt_Engineering-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS-Cloud_Practitioner-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Building Language Models on AWS](https://img.shields.io/badge/AWS-Building_Language_Models-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](./Building%20Language%20Models.pdf) 
+[![Fundamentals of Analytics on AWS – Part 2](https://img.shields.io/badge/AWS-Analytics_Part_2-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](./Fundamentals%20of%20Analytics%20part%202.pdf) 
+[![Fundamentals of Analytics on AWS – Part 1](https://img.shields.io/badge/AWS-Analytics_Part_1-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](./Fundamentals%20of%20Analytics%20part%201.pdf) 
+[![Machine Learning Terminology and Process](https://img.shields.io/badge/AWS-Machine_Learning_Process-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](./Machine%20Learning%20Process.pdf) 
+[![Foundations of Prompt Engineering](https://img.shields.io/badge/AWS-Prompt_Engineering-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](./Foundations%20of%20Prompt.pdf) 
+[![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS-Cloud_Practitioner-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](./AWS%20Cloud%20Practitioner.pdf)
+[![Introduction to SageMaker Unified Studio](https://img.shields.io/badge/AWS-SageMaker_Unified_Studio-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 ### Google & NPTEL
 ![Google Data Analytics Professional](https://img.shields.io/badge/Google-Data_Analytics_Professional-5a189a?style=for-the-badge&logo=google&logoColor=white)
 ![AI Constraint Satisfaction](https://img.shields.io/badge/NPTEL-AI:_Constraint_Satisfaction-5a189a?style=for-the-badge&logo=nptel&logoColor=white)
-
-<br/>
-<br/>
 
 ## 💻 Coding Profiles
 
