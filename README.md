@@ -6,7 +6,9 @@
 
 <br/>
 
-
+[![Location](https://img.shields.io/badge/Greater_Chennai,_India-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5a189a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-nathan6327)
+[![Email](https://img.shields.io/badge/Contact_Me-5a189a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saminathan6327@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Saminathan6327&label=Profile%20Views&color=5a189a&style=for-the-badge)](#)
 [![Followers](https://img.shields.io/github/followers/Saminathan6327?style=for-the-badge&color=5a189a&logo=github)](#)
@@ -17,7 +19,7 @@
 <br/>
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 I am an Artificial Intelligence undergraduate student at SRM Institute of Science and Technology passionate about engineering smart solutions, optimizing data workflows, and translating complex algorithmic logic into practical applications. My core technical drive lies at the intersection of robust data engineering, predictive machine learning, and scalable cloud architectures. 
 
@@ -29,7 +31,7 @@ I am an Artificial Intelligence undergraduate student at SRM Institute of Scienc
 <br/>
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -53,7 +55,7 @@ I am an Artificial Intelligence undergraduate student at SRM Institute of Scienc
 <br/>
 <br/>
 
-## 🧠 AI/ML Expertise
+##  AI/ML Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
@@ -65,7 +67,7 @@ I am an Artificial Intelligence undergraduate student at SRM Institute of Scienc
 <br/>
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
 <summary><b>1. NGO Data Pipeline Engine</b></summary>
@@ -108,7 +110,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 <br/>
 <br/>
 
-## 💼 Experience
+##  Experience
 
 **Machine Learning & Data Analytics Intern** | *On-site*
 *2025 - Present*
@@ -122,7 +124,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 <br/>
 <br/>
 
-## 🏆 Achievements
+##  Achievements
 
 | Recognition | Details |
 | :---: | :--- |
@@ -134,7 +136,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 <br/>
 <br/>
 
-## 📜 Certifications
+##  Certifications
 
 ### AWS Training & Certification
 [![Building Language Models on AWS](https://img.shields.io/badge/AWS-Building_Language_Models-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Building%20Language%20Models.pdf) 
@@ -149,7 +151,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 ![Google Data Analytics Professional](https://img.shields.io/badge/Google-Data_Analytics_Professional-5a189a?style=for-the-badge&logo=google&logoColor=white)
 ![AI Constraint Satisfaction](https://img.shields.io/badge/NPTEL-AI:_Constraint_Satisfaction-5a189a?style=for-the-badge&logo=nptel&logoColor=white)
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 <div align="center">
 
@@ -162,7 +164,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 <br/>
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="GitHub Streak" />
@@ -171,7 +173,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 <br/>
 <br/>
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saminathan6327&theme=react-dark&bg_color=0d1117&color=9d4edd&line=7b2cbf&point=ffffff" alt="Activity Graph" />
@@ -180,7 +182,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 <br/>
 <br/>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Saminathan6327/Saminathan6327/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -188,20 +190,3 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 
 <br/>
 <br/>
-
-## ⚡ Current Focus
-
-```yaml
-profile:
-  learning: 
-    - Advanced Neural Networks
-    - Cloud MLOps Architectures
-  building: 
-    - Scalable Machine Learning Pipelines
-    - SQL & R Data Analytics Dashboards
-  exploring: 
-    - Generative AI & Prompt Engineering
-    - Algorithm Complexity Optimization
-  open_to:
-    - ML Engineering Internships
-    - Data Science Collaborations
