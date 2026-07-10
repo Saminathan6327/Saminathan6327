@@ -166,7 +166,6 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="GitHub Streak" />
   <br/>
-  <img src="https://img.shields.io/badge/Antigravity-AI_Coding_Assistant-5a189a?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </div>
 
 <br/>
