@@ -40,15 +40,12 @@ I am an Artificial Intelligence undergraduate student at SRM Institute of Scienc
   <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite&theme=dark" />
 </a>
 
-### ML, Data & Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=scikit,pandas,numpy,tensorflow&theme=dark" />
-</a>
-
 ### Cloud, DevOps & Tooling
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vscode&theme=dark" />
 </a>
+<br/>
+<img src="https://img.shields.io/badge/Antigravity-AI_Coding_Assistant-5a189a?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
 </div>
 
