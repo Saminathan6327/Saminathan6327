@@ -6,11 +6,7 @@
 
 <br/>
 
-[![Academic](https://img.shields.io/badge/Academic-B.Tech_Artificial_Intelligence-5a189a?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Location-Greater_Chennai,_India-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5a189a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-nathan6327)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-5a189a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saminathan6327@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-5a189a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saminathan6327)
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Saminathan6327&label=Profile%20Views&color=5a189a&style=for-the-badge)](#)
 [![Followers](https://img.shields.io/github/followers/Saminathan6327?style=for-the-badge&color=5a189a&logo=github)](#)
@@ -169,23 +165,7 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saminathan6327&show_icons=true&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="GitHub Streak" width="48%" />
-  
-  <br/>
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saminathan6327&layout=compact&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="Top Languages" width="50%" />
-</div>
-
-<br/>
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saminathan6327&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true&v=1" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="GitHub Streak" />
 </div>
 
 <br/>
