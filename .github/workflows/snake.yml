@@ -17,7 +17,7 @@ jobs:
           github_user_name: Saminathan6327
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#30363d,#6e7681,#8b949e,#ffffff
             
       - uses: crazy-max/ghaction-github-pages@v4
         with:
