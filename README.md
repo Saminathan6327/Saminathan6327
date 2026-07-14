@@ -40,6 +40,11 @@ I am an Artificial Intelligence undergraduate student at SRM Institute of Scienc
   <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite&theme=dark" />
 </a>
 
+### ML, Data & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=scikit,pandas,numpy,tensorflow&theme=dark" />
+</a>
+
 ### Cloud, DevOps & Tooling
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vscode&theme=dark" />
@@ -47,10 +52,6 @@ I am an Artificial Intelligence undergraduate student at SRM Institute of Scienc
 <img src="antigravity-icon.svg" width="48" height="48" alt="Antigravity" />
 
 </div>
-
-<br/>
-<br/>
-
 ##  AI/ML Expertise
 
 | Domain | Proficiency | Details |
@@ -88,7 +89,7 @@ An end-to-end SQL and R data pipeline designed to identify and track at-risk stu
 <summary><b>2. Machine Learning Technical Suite</b></summary>
 <br/>
 
-A comprehensive repository of 15 advanced Python coding experiments modeling core machine learning and data science workflows.
+A comprehensive repository of 15 advanced Python coding experiments modeling core machine learning and data science workflows, complete with custom downloadable CSV datasets.
 
 | Metric | Detail |
 | :--- | :--- |
@@ -102,9 +103,6 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 
 *Developed as a structured technical report, this suite proves deep hands-on competency in manipulating data structures, training predictive models, and managing codebase evolution.*
 </details>
-
-<br/>
-<br/>
 
 ##  Experience
 
@@ -141,12 +139,11 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 [![Machine Learning Terminology and Process](https://img.shields.io/badge/AWS-Machine_Learning_Process-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Machine%20Learning%20Process.pdf) 
 [![Foundations of Prompt Engineering](https://img.shields.io/badge/AWS-Prompt_Engineering-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Foundations%20of%20Prompt.pdf) 
 [![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS-Cloud_Practitioner-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/AWS%20Cloud%20Practitioner.pdf)
-[![Introduction to SageMaker Unified Studio](https://img.shields.io/badge/AWS-SageMaker_Unified_Studio-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![Introduction to SageMaker Unified Studio](https://img.shields.io/badge/AWS-SageMaker_Unified_Studio-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/aws%20certificate%202.pdf)
 
 ### Google & NPTEL
 ![Google Data Analytics Professional](https://img.shields.io/badge/Google-Data_Analytics_Professional-5a189a?style=for-the-badge&logo=google&logoColor=white)
 ![AI Constraint Satisfaction](https://img.shields.io/badge/NPTEL-AI:_Constraint_Satisfaction-5a189a?style=for-the-badge&logo=nptel&logoColor=white)
-
 ##  Coding Profiles
 
 <div align="center">
