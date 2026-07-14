@@ -1,19 +1,19 @@
 <div align="center">
-
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=200&section=header&text=Saminathan%20Muruganantham&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff)
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=B.Tech+AI+Student+%40+SRMIST;Aspiring+Machine+Learning+Engineer;Data+Pipeline+Builder;AI+%26+Cloud+Enthusiast" alt="Typing SVG" />
-
+ 
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Saminathan%20Muruganantham&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+ 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=B.Tech+AI+Student+%40+SRMIST;Aspiring+Machine+Learning+Engineer;Data+Pipeline+Builder;AI+%26+Cloud+Enthusiast" alt="Typing SVG" />
+ 
 <br/>
-
-[![Location](https://img.shields.io/badge/Greater_Chennai,_India-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5a189a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-nathan6327)
-[![Email](https://img.shields.io/badge/Contact_Me-5a189a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saminathan6327@gmail.com)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Saminathan6327&label=Profile%20Views&color=5a189a&style=for-the-badge)](#)
-[![Followers](https://img.shields.io/github/followers/Saminathan6327?style=for-the-badge&color=5a189a&logo=github)](#)
-[![Stars](https://img.shields.io/github/stars/Saminathan6327?style=for-the-badge&color=5a189a)](#)
-
+ 
+[![Location](https://img.shields.io/badge/Greater_Chennai,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-nathan6327)
+[![Email](https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saminathan6327@gmail.com)
+ 
+[![Profile Views](https://komarev.com/ghpvc/?username=Saminathan6327&label=Profile%20Views&color=000000&style=for-the-badge)](#)
+[![Followers](https://img.shields.io/github/followers/Saminathan6327?style=for-the-badge&color=000000&logo=github)](#)
+[![Stars](https://img.shields.io/github/stars/Saminathan6327?style=for-the-badge&color=000000)](#)
+ 
 </div>
 
 <br/>
@@ -133,45 +133,45 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 ##  Certifications
 
 ### AWS Training & Certification
-[![Building Language Models on AWS](https://img.shields.io/badge/AWS-Building_Language_Models-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Building%20Language%20Models.pdf) 
-[![Fundamentals of Analytics on AWS – Part 2](https://img.shields.io/badge/AWS-Analytics_Part_2-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Fundamentals%20of%20Analytics%20part%202.pdf) 
-[![Fundamentals of Analytics on AWS – Part 1](https://img.shields.io/badge/AWS-Analytics_Part_1-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Fundamentals%20of%20Analytics%20part%201.pdf) 
-[![Machine Learning Terminology and Process](https://img.shields.io/badge/AWS-Machine_Learning_Process-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Machine%20Learning%20Process.pdf) 
-[![Foundations of Prompt Engineering](https://img.shields.io/badge/AWS-Prompt_Engineering-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Foundations%20of%20Prompt.pdf) 
-[![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS-Cloud_Practitioner-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/AWS%20Cloud%20Practitioner.pdf)
-[![Introduction to SageMaker Unified Studio](https://img.shields.io/badge/AWS-SageMaker_Unified_Studio-5a189a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/aws%20certificate%202.pdf)
-
+[![Building Language Models on AWS](https://img.shields.io/badge/AWS-Building_Language_Models-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Building%20Language%20Models.pdf) 
+[![Fundamentals of Analytics on AWS – Part 2](https://img.shields.io/badge/AWS-Analytics_Part_2-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Fundamentals%20of%20Analytics%20part%202.pdf) 
+[![Fundamentals of Analytics on AWS – Part 1](https://img.shields.io/badge/AWS-Analytics_Part_1-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Fundamentals%20of%20Analytics%20part%201.pdf) 
+[![Machine Learning Terminology and Process](https://img.shields.io/badge/AWS-Machine_Learning_Process-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Machine%20Learning%20Process.pdf) 
+[![Foundations of Prompt Engineering](https://img.shields.io/badge/AWS-Prompt_Engineering-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Foundations%20of%20Prompt.pdf) 
+[![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS-Cloud_Practitioner-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/AWS%20Cloud%20Practitioner.pdf)
+[![Introduction to SageMaker Unified Studio](https://img.shields.io/badge/AWS-SageMaker_Unified_Studio-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Saminathan6327/Saminathan6327/blob/main/Introduction%20to%20SageMaker%20Unified%20Studio-%20Local%20IDE%20VS%20Code%20and%20Kiro%20Integration.pdf)
+ 
 ### Google & NPTEL
-![Google Data Analytics Professional](https://img.shields.io/badge/Google-Data_Analytics_Professional-5a189a?style=for-the-badge&logo=google&logoColor=white)
-![AI Constraint Satisfaction](https://img.shields.io/badge/NPTEL-AI:_Constraint_Satisfaction-5a189a?style=for-the-badge&logo=nptel&logoColor=white)
+![Google Data Analytics Professional](https://img.shields.io/badge/Google-Data_Analytics_Professional-000000?style=for-the-badge&logo=google&logoColor=white)
+![AI Constraint Satisfaction](https://img.shields.io/badge/NPTEL-AI:_Constraint_Satisfaction-000000?style=for-the-badge&logo=nptel&logoColor=white)
 ##  Coding Profiles
-
+ 
 <div align="center">
-
-[![Codolio](https://img.shields.io/badge/Codolio-Competitive_Programming-5a189a?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/saminathan06)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-5a189a?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/problemset/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Data_Structures-5a189a?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/saminathan06?utm=codolio)
-
+ 
+[![Codolio](https://img.shields.io/badge/Codolio-Competitive_Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/saminathan06)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/problemset/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Data_Structures-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/saminathan06?utm=codolio)
+ 
 </div>
-
+ 
 <br/>
 <br/>
-
+ 
 ##  GitHub Analytics
-
+ 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=radical&bg_color=0d1117&border_color=5a189a&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saminathan6327&theme=dark&background=000000&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&v=1" alt="GitHub Streak" />
   <br/>
-
+ 
 </div>
-
+ 
 <br/>
 <br/>
-
-##  Contribution Activity
-
+ 
+##  GitHub Activity Graph
+ 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saminathan6327&theme=react-dark&bg_color=0d1117&color=9d4edd&line=7b2cbf&point=ffffff" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saminathan6327&bg_color=000000&color=ffffff&line=30363d&point=ffffff&border=30363d&hide_border=false" alt="Activity Graph" />
 </div>
 
 <br/>
