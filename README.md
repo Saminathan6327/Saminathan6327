@@ -89,12 +89,12 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 | Metric | Detail |
 | :--- | :--- |
 | **Stack** | Python, NumPy, Scikit-Learn, Git |
-| **Scale** | 15 distinct programmatic models with corresponding custom CSV datasets. |
+| **Scale** | 20 distinct programmatic models with corresponding custom CSV datasets. |
 | **Performance** | High-efficiency vectorized operations utilizing NumPy arrays. |
 | **Security** | Isolated environment execution and strict version control. |
 | **Impact** | Demonstrated applied algorithmic theory from dataset creation to model evaluation. |
 
-[**View Repository ↗**](YOUR_REPO_LINK_HERE)
+[**View Repository ↗**]((https://github.com/Saminathan6327/20-Day-Portfolio-Sprint))
 
 *Developed as a structured technical report, this suite proves deep hands-on competency in manipulating data structures, training predictive models, and managing codebase evolution.*
 </details>
