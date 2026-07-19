@@ -89,6 +89,7 @@ A comprehensive 20-day technical coding sprint building 20 distinct micro-projec
 
 | Metric | Detail |
 | :--- | :--- |
+<<<<<<< HEAD
 | **Stack** | Python, Pandas, SQLite, R (ggplot2), NLTK, Scikit-Learn, OpenCV, FastAPI, Streamlit |
 | **Scale** | 20 distinct micro-projects, including automation scripts, ML pipelines, deep learning networks, and web dashboards. |
 | **Performance** | Optimized algorithm efficiency (Two-Pointer, Sliding Window, Binary Search) reducing time complexity from $O(N^2)$ to $O(N)$ or $O(\log N)$. |
@@ -96,6 +97,15 @@ A comprehensive 20-day technical coding sprint building 20 distinct micro-projec
 | **Impact** | Proves deep hands-on technical readiness for software engineering placements and data engineering roles. |
 
 [**View Repository ↗**](https://github.com/Saminathan6327/20-Day-Portfolio-Sprint)
+=======
+| **Stack** | Python, NumPy, Scikit-Learn, Git |
+| **Scale** | 20 distinct programmatic models with corresponding custom CSV datasets. |
+| **Performance** | High-efficiency vectorized operations utilizing NumPy arrays. |
+| **Security** | Isolated environment execution and strict version control. |
+| **Impact** | Demonstrated applied algorithmic theory from dataset creation to model evaluation. |
+
+[**View Repository ↗**]((https://github.com/Saminathan6327/20-Day-Portfolio-Sprint))
+>>>>>>> 347f73eff72f0cf9684dd259ec69babb3d97c87d
 
 *Developed as a structured placement preparation sprint, this repository showcases full-stack capability from data parsing to deep learning and interactive web dashboard serving.*
 </details>
@@ -117,6 +127,48 @@ An intelligent Retrieval-Augmented Generation (RAG) platform that processes uplo
 [**View Repository ↗**](https://github.com/Saminathan6327/rag-chatbot)
 
 *This project showcases full-stack AI application development, combining vector-search databases, Large Language Model prompts, modern asynchronous FastAPI backend logic, and a premium glassmorphic UI.*
+</details>
+<details>
+<summary><b>2. Full-Stack RAG AI Chatbot</b></summary>
+<br/>
+
+<p>A full-stack Retrieval-Augmented Generation (RAG) chatbot designed to answer user queries strictly based on custom-embedded knowledge documents.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left;">Metric</th>
+      <th style="text-align: left;">Detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left;"><b>Stack</b></td>
+      <td style="text-align: left;">Python, Google Gemini API, Pinecone Vector DB, Git</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><b>Scale</b></td>
+      <td style="text-align: left;">Processed and chunked custom text documents into 768-dimensional vector embeddings.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><b>Performance</b></td>
+      <td style="text-align: left;">Achieved lightning-fast context retrieval using cosine similarity metrics in Pinecone.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><b>Security</b></td>
+      <td style="text-align: left;">Implemented strict environment variable management (.env) to secure cloud API credentials.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><b>Impact</b></td>
+      <td style="text-align: left;">Eliminated AI hallucinations by grounding the Gemini language model entirely in retrieved local context.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<p><a href="https://github.com/Saminathan6327/rag-chatbot"><b>View Repository ↗</b></a></p>
+
+<p><i>This project highlights modern AI engineering, showcasing the ability to connect foundational large language models to custom external data sources securely and efficiently.</i></p>
 </details>
 
 ##  Experience
