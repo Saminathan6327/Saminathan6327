@@ -35,9 +35,9 @@ I am an Artificial Intelligence undergraduate student at SRM Institute of Scienc
 
 <div align="center">
 
-### Languages
+### Languages & Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,fastapi,html,css,js&theme=dark" />
 </a>
 
 ### Cloud, DevOps & Tooling
@@ -54,6 +54,7 @@ I am an Artificial Intelligence undergraduate student at SRM Institute of Scienc
 | **Predictive Modeling** | Advanced | Supervised/Unsupervised learning, ensemble methods, and regression frameworks utilizing Scikit-Learn and custom logic. |
 | **Data Engineering** | Advanced | Extract, Transform, Load (ETL) pipeline creation, data preprocessing, and manipulation leveraging SQL, R, and Pandas. |
 | **Algorithm Optimization** | Intermediate | Neural network logic, backpropagation implementation from scratch, and AI constraint satisfaction algorithms. |
+| **Generative AI & RAG** | Intermediate | Designing Retrieval-Augmented Generation (RAG) pipelines, semantic search indexing via Pinecone, and LLM orchestration (Gemini API). |
 | **Cloud AI & NLP** | Intermediate | Building Language Models on AWS, foundations of prompt engineering, and cloud-based analytics deployment. |
 
 <br/>
@@ -81,22 +82,41 @@ An end-to-end SQL and R data pipeline designed to identify and track at-risk stu
 </details>
 
 <details>
-<summary><b>2. Machine Learning Technical Suite</b></summary>
+<summary><b>2. 20-Day Placement Portfolio Sprint</b></summary>
 <br/>
 
-A comprehensive repository of 15 advanced Python coding experiments modeling core machine learning and data science workflows, complete with custom downloadable CSV datasets.
+A comprehensive 20-day technical coding sprint building 20 distinct micro-projects focused on Data Engineering, Algorithmic Logic, Applied AI, and Developer Utilities.
 
 | Metric | Detail |
 | :--- | :--- |
-| **Stack** | Python, NumPy, Scikit-Learn, Git |
-| **Scale** | 15 distinct programmatic models with corresponding custom CSV datasets. |
-| **Performance** | High-efficiency vectorized operations utilizing NumPy arrays. |
-| **Security** | Isolated environment execution and strict version control. |
-| **Impact** | Demonstrated applied algorithmic theory from dataset creation to model evaluation. |
+| **Stack** | Python, Pandas, SQLite, R (ggplot2), NLTK, Scikit-Learn, OpenCV, FastAPI, Streamlit |
+| **Scale** | 20 distinct micro-projects, including automation scripts, ML pipelines, deep learning networks, and web dashboards. |
+| **Performance** | Optimized algorithm efficiency (Two-Pointer, Sliding Window, Binary Search) reducing time complexity from $O(N^2)$ to $O(N)$ or $O(\log N)$. |
+| **Security** | Asynchronous API integration, local database sandboxing, and environment configuration isolation. |
+| **Impact** | Proves deep hands-on technical readiness for software engineering placements and data engineering roles. |
 
-[**View Repository ↗**](YOUR_REPO_LINK_HERE)
+[**View Repository ↗**](https://github.com/Saminathan6327/20-Day-Portfolio-Sprint)
 
-*Developed as a structured technical report, this suite proves deep hands-on competency in manipulating data structures, training predictive models, and managing codebase evolution.*
+*Developed as a structured placement preparation sprint, this repository showcases full-stack capability from data parsing to deep learning and interactive web dashboard serving.*
+</details>
+
+<details>
+<summary><b>3. RAG Chatbot — AI Knowledge Assistant</b></summary>
+<br/>
+
+An intelligent Retrieval-Augmented Generation (RAG) platform that processes uploaded documents (PDFs, TXT) and generates context-aware answers utilizing Pinecone vector search and Gemini AI.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | Python, FastAPI, Gemini API, Pinecone, pdfplumber, JavaScript (ES6+), Vanilla CSS |
+| **Scale** | Fully asynchronous document processing, chunking, and high-performance vector indexing. |
+| **Performance** | Real-time vector embedding generation and cosine-similarity database querying (sub-second response). |
+| **Security** | Safe environment variable management and API credential isolation. |
+| **Impact** | Provides a seamless graphical chat interface enabling users to query complex documents with pinpoint accuracy. |
+
+[**View Repository ↗**](https://github.com/Saminathan6327/rag-chatbot)
+
+*This project showcases full-stack AI application development, combining vector-search databases, Large Language Model prompts, modern asynchronous FastAPI backend logic, and a premium glassmorphic UI.*
 </details>
 
 ##  Experience
