@@ -98,6 +98,48 @@ A comprehensive repository of 15 advanced Python coding experiments modeling cor
 
 *Developed as a structured technical report, this suite proves deep hands-on competency in manipulating data structures, training predictive models, and managing codebase evolution.*
 </details>
+<details>
+<summary><b>2. Full-Stack RAG AI Chatbot</b></summary>
+<br/>
+
+<p>A full-stack Retrieval-Augmented Generation (RAG) chatbot designed to answer user queries strictly based on custom-embedded knowledge documents.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left;">Metric</th>
+      <th style="text-align: left;">Detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left;"><b>Stack</b></td>
+      <td style="text-align: left;">Python, Google Gemini API, Pinecone Vector DB, Git</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><b>Scale</b></td>
+      <td style="text-align: left;">Processed and chunked custom text documents into 768-dimensional vector embeddings.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><b>Performance</b></td>
+      <td style="text-align: left;">Achieved lightning-fast context retrieval using cosine similarity metrics in Pinecone.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><b>Security</b></td>
+      <td style="text-align: left;">Implemented strict environment variable management (.env) to secure cloud API credentials.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><b>Impact</b></td>
+      <td style="text-align: left;">Eliminated AI hallucinations by grounding the Gemini language model entirely in retrieved local context.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<p><a href="https://github.com/Saminathan6327/rag-chatbot"><b>View Repository ↗</b></a></p>
+
+<p><i>This project highlights modern AI engineering, showcasing the ability to connect foundational large language models to custom external data sources securely and efficiently.</i></p>
+</details>
 
 ##  Experience
 
