@@ -129,7 +129,7 @@ An intelligent Retrieval-Augmented Generation (RAG) platform that processes uplo
 *This project showcases full-stack AI application development, combining vector-search databases, Large Language Model prompts, modern asynchronous FastAPI backend logic, and a premium glassmorphic UI.*
 </details>
 <details>
-<summary><b>2. Full-Stack RAG AI Chatbot</b></summary>
+<summary><b>4. Full-Stack RAG AI Chatbot</b></summary>
 <br/>
 
 <p>A full-stack Retrieval-Augmented Generation (RAG) chatbot designed to answer user queries strictly based on custom-embedded knowledge documents.</p>
